@@ -1,0 +1,85 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+header {
+    background-color: #6f4c3e;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.hero {
+    background-image: url(https://images.pexels.com/photos/851555/pexels-photo-851555.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    background-position: center; /* Center the image */
+    background-attachment: fixed;
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.btn {
+    background-color: #f7c6a5;
+    color: #6f4c3e;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+section {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.menu-item {
+    margin: 20px 0;
+}
+
+footer {
+    background-color: #6f4c3e;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.btn {
+    background-color: #f7c6a5;
+    color: #6f4c3e;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+section {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.menu-item {
+    margin: 20px 0;
+}
+
+footer {
+    background-color: #6f4c3e;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
